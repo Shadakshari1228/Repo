@@ -1,0 +1,12 @@
+ Volume in drive C is System
+ Volume Serial Number is 98C4-0782
+
+ Directory of C:\Users\SHADCU\Desktop\MyProjects
+
+21-07-2023  10:46    <DIR>          .
+20-07-2023  11:39    <DIR>          ..
+20-07-2023  12:40               393 index.html
+20-07-2023  12:39                10 test.txt
+21-07-2023  10:46                 0 test1.txt
+               3 File(s)            403 bytes
+               2 Dir(s)  347,239,600,128 bytes free
